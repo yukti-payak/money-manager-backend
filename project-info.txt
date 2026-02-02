@@ -1,0 +1,7 @@
+=== BACKEND LINKS===
+
+GitHub Repo: https://github.com/yukti-payak/money-manager-backend
+
+Last Commit Hash: a78f24342f4d7bfb852b55bb1657e22780252d44
+
+API Live URL: https://money-manager-backend-cr19.onrender.com
